@@ -1,4 +1,4 @@
-package com.collection.arrays;
+package com.javabackend.collection;
 
 public class ArrayDemo {
 
